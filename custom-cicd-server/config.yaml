@@ -1,0 +1,5 @@
+pipeline:
+  - name: "Build"
+    cmd: ["go", "build", "./..."]
+  - name: "Test"
+    cmd: ["go", "test", "./..."]

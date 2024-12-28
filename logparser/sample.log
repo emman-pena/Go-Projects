@@ -1,0 +1,7 @@
+2024-12-23 12:00:01 INFO User logged in: user1
+2024-12-23 12:05:43 WARN Low disk space on server1
+2024-12-23 12:10:15 ERROR Unable to connect to database
+2024-12-23 12:15:30 INFO User logged out: user1
+2024-12-23 12:20:01 INFO User logged in: user2
+2024-12-23 12:30:00 ERROR Failed to send email
+2024-12-23 12:35:45 INFO User logged out: user2
